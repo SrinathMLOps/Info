@@ -11,6 +11,9 @@
   <a href="https://www.youtube.com/@ursrips">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube">
   </a>
+  <a href="https://mlopsgenaiworld.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-MLOps%20GenAI%20World-orange?style=flat&logo=blogger">
+  </a>
 </p>
 
 ---
@@ -59,6 +62,12 @@ Simplifying complex concepts into practical learning
 
 ---
 
+### 🔹 Blog (MLOps GenAI World)
+Sharing deep-dive articles, insights, and real-world engineering concepts  
+🔗 https://mlopsgenaiworld.blogspot.com/
+
+---
+
 ### 🔹 LinkedIn (Professional Insights)
 Sharing real-world experiences and technical learnings  
 🔗 https://www.linkedin.com/in/srinathkaithoju/
@@ -91,6 +100,7 @@ If you find this useful:
 ⭐ Star the repository  
 🔁 Share with others  
 📺 Subscribe on YouTube  
+📝 Read & follow the blog  
 🔗 Connect on LinkedIn  
 
 ---
